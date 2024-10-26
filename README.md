@@ -1,1 +1,1 @@
-# TransArt-A-Multimodal-Application-for-Vernacular-Language-Translation-and-Image-Synthesis
+(https://huggingface.co/spaces/anbarasanGT/tamil-audio-translator-image-generator)
